@@ -27,4 +27,4 @@ The result is a pandas Series with the index of the dates extracted in ascending
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Credits must give credit to the [University of Michigan](https://umich.edu/) for making the data available along in its [Applied Text Mining in Python](https://www.coursera.org/learn/python-text-mining) course available in Coursera platform.
+Credits must be given to the [University of Michigan](https://umich.edu/) for making the data available along in its [Applied Text Mining in Python](https://www.coursera.org/learn/python-text-mining) course available in Coursera platform.
